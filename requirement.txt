@@ -1,0 +1,8 @@
+aiogram==2.20
+fastapi==0.79.0
+uvicorn==0.17.6
+aiohttp==3.8.1
+psycopg2-binary==2.9.3
+requests==2.27.1
+python-dotenv==0.20.0
+pydantic==1.9.1
